@@ -1,0 +1,55 @@
+[
+  {
+    "id": 1,
+    "name": "Áo thun Circle Embroidery",
+    "image": "https://product.hstatic.net/200000201725/product/15_a17d4b7b9c8e42d0925e68be3dbc27b0_grande.jpg",
+    "sale": "-30%",
+    "price": "230,000đ",
+    "prev-price": "329,000đ",
+    "listimg": [
+      {
+        "id": 1,
+        "url": "//product.hstatic.net/200000201725/product/_nik5150_0f5318485c0347f7858008044516cb6b_icon.jpg"
+      },
+      {
+        "id": 2,
+        "url": "//product.hstatic.net/200000201725/product/_nik5152_d4ff47ef473e4cb88bfa2aa87c369770_icon.jpg"
+      },
+      {
+        "id": 3,
+        "url": "//product.hstatic.net/200000201725/product/_nik5145_acc7107a582443cc8d955d015e4a0c37_icon.jpg"
+      },
+      {
+        "id": 4,
+        "url": "//product.hstatic.net/200000201725/product/_nik5147_ad0a0ddae4454444b71df948b1abeb58_icon.jpg"
+      }
+    ]
+  }
+  ,
+  {
+    "id": 2,
+    "name": "Áo thun Circle Embroidery",
+    "image": "https://product.hstatic.net/200000201725/product/15_a17d4b7b9c8e42d0925e68be3dbc27b0_grande.jpg",
+    "sale": "-30%",
+    "price": "230,000đ",
+    "prev-price": "329,000đ",
+    "list-img": [
+      {
+        "id": 1,
+        "url": "//product.hstatic.net/200000201725/product/_nik5150_0f5318485c0347f7858008044516cb6b_icon.jpg"
+      },
+      {
+        "id": 2,
+        "url": "//product.hstatic.net/200000201725/product/_nik5147_ad0a0ddae4454444b71df948b1abeb58_icon.jpg"
+      },
+      {
+        "id": 3,
+        "url": "//product.hstatic.net/200000201725/product/_nik5145_acc7107a582443cc8d955d015e4a0c37_icon.jpg"
+      },
+      {
+        "id": 4,
+        "url": "//product.hstatic.net/200000201725/product/_nik5147_ad0a0ddae4454444b71df948b1abeb58_icon.jpg"
+      }
+    ]
+  }
+]
